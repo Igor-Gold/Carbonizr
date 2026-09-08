@@ -28,6 +28,8 @@ bronze, platinum, aluminum, and many more!
 
 Take pictures of your friends, family or pets and have them Carbonized!
 
+[How to be a Magician with Shapeways APIs (Guide)](https://medium.com/shapeways-tech/how-to-be-a-magician-with-shapeways-apis-f255d99e3c4b)
+
 Have a look at the [Shapeways Carbonizr Shop](https://www.shapeways.com/shops/carbonizr "Carbonizr Shop") for ideas, prints, and creations!
 
 <h2>Miniature Landmarks</h2>
